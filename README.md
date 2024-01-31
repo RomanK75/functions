@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/q0dt43q8s3nyo9oh?svg=true)](https://ci.appveyor.com/project/RomanK75/functions)
+
 # Домашнее задание к лекции «Unit-тестирование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
